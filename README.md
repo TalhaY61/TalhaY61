@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Talha </h1>
-<h3 align="center">Software Developer</h3>
-<h4 align="center">I’m a 4th Year Computer Science Stundent in Istanbul / Türkiye.</h3>
+<h1 align="center">Hi 👋 </h1>
+<h4 align="center"> I'm Talha and i am a 4th Year Computer Science Stundent in Istanbul / Türkiye.</h3>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/talha-yaz-044016233/) 
